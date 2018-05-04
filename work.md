@@ -78,6 +78,7 @@ the flag in the blue, red or green 0 pane
 ```
 binwalk carter.jpg
 ```
+![123](https://github.com/rraayy246/123/)
 解題步驟4:使用dd抽出檔案
 ```
 dd if=carter.jpg of=carter-1.jpg skip=140147 bs=1
