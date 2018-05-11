@@ -2,7 +2,6 @@
 >* crypto 201
 ![123](https://github.com/rraayy246/123/blob/master/picture/003.png)
 
-# 隱寫術
 # MISC
 >* Secret@Scratch
 ![123](https://github.com/rraayy246/123/blob/master/picture/002.png)
