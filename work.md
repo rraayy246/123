@@ -31,6 +31,10 @@
 ![123](https://github.com/rraayy246/123/blob/master/picture/008.png)
 
 
+>* web-4:HTTP method
+![123](https://github.com/rraayy246/123/blob/master/picture/009.png)
+
+
 >* web-5:Local File Inclusion
 ![123](https://github.com/rraayy246/123/blob/master/picture/007.png)
 
