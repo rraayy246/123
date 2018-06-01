@@ -4,17 +4,13 @@ c語言程式:hello.c
 ```
 #include <stdio.h>
 
-int x=5;
-
 int main()
 {
-   printf("Hello CTFer\n ”);
+   printf("Hello Fvcker!!\n ”);
    return 0;
 }
 
 ```
-【推薦好書】程式設計師的自我修養：連結、載入、程式庫
-
 ## 預處理階段
 
 ```
