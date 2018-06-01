@@ -961,6 +961,7 @@ gcc  XXX.o –o XXX.exe
 ```
 gcc  XXX.o –o XXX.jpg
 ```
+![123](https://github.com/rraayy246/123/blob/master/picture/012.png)
 
 # c程式執行檔逆向==>逆向成組合語言
 
