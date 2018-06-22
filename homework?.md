@@ -42,3 +42,8 @@
 >* web-5:Local File Inclusion
 ![123](https://github.com/rraayy246/123/blob/master/picture/007.png)
 
+
+# Linux CTF
+>* Linux CTF 6
+![123](https://github.com/rraayy246/123/blob/master/picture/014.png)
+
